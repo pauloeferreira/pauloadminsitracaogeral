@@ -1,9 +1,9 @@
 <h1 align="center">Fala visitante👋, bem vindo ao meu espaço!</h1>
 <h3 align="center">Entusiasta do mundo de BI, BA, Data Analytics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloadminsitracaogeral&label=Profile%20views&color=0e75b6&style=flat" alt="pauloadminsitracaogeral" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloeferreira&label=Profile%20views&color=0e75b6&style=flat" alt="pauloeferreira" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauloadminsitracaogeral" alt="pauloadminsitracaogeral" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pauloeferreira" alt="pauloeferreira" /></a> </p>
 
 - 🌱 I’m currently learning **BI, BA, Data Analytics**
 
@@ -24,7 +24,7 @@
 
   <a href="https://medium.com/@pauloesferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pauloesferreira" height="30" width="40" /></a>
 
-  <a href="https://discord.gg/paulo.e.s.ferreira#7737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="paulo.e.s.ferreira#7737" height="30" width="40" /></a>
+  <a href="https://discord.gg/paulo.e.s.ferreira#6432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="paulo.e.s.ferreira#7737" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
